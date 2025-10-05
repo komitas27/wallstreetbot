@@ -1,0 +1,8 @@
+yfinance
+yahooquery
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+python-dateutil
